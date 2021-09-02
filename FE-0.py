@@ -7,7 +7,7 @@ import seaborn as sns
 from finta import TA
 from datetime import timedelta
 import datetime as dt
-import talib
+#import talib
 # https://blog.quantinsti.com/install-ta-lib-python/
 
 
